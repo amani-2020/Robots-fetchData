@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/amani-2020.github.io/static/css/main.73c9da69.css",
-    "main.js": "/amani-2020.github.io/static/js/main.69b9dcdf.js",
-    "static/js/787.06d897a4.chunk.js": "/amani-2020.github.io/static/js/787.06d897a4.chunk.js",
-    "static/media/SEGA.woff": "/amani-2020.github.io/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "static/media/logo.svg": "/amani-2020.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/amani-2020.github.io/index.html",
-    "main.73c9da69.css.map": "/amani-2020.github.io/static/css/main.73c9da69.css.map",
-    "main.69b9dcdf.js.map": "/amani-2020.github.io/static/js/main.69b9dcdf.js.map",
-    "787.06d897a4.chunk.js.map": "/amani-2020.github.io/static/js/787.06d897a4.chunk.js.map"
+    "main.css": "/Robots-fetchData/static/css/main.0b365681.css",
+    "main.js": "/Robots-fetchData/static/js/main.7f052fc3.js",
+    "static/js/787.06d897a4.chunk.js": "/Robots-fetchData/static/js/787.06d897a4.chunk.js",
+    "static/media/SEGA.woff": "/Robots-fetchData/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "static/media/logo.svg": "/Robots-fetchData/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Robots-fetchData/index.html",
+    "main.0b365681.css.map": "/Robots-fetchData/static/css/main.0b365681.css.map",
+    "main.7f052fc3.js.map": "/Robots-fetchData/static/js/main.7f052fc3.js.map",
+    "787.06d897a4.chunk.js.map": "/Robots-fetchData/static/js/787.06d897a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73c9da69.css",
-    "static/js/main.69b9dcdf.js"
+    "static/css/main.0b365681.css",
+    "static/js/main.7f052fc3.js"
   ]
 }
